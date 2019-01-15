@@ -1,0 +1,35 @@
+---
+title: "South Africa HRID cadre change analysis"
+author: "ICPI"
+date: "Nov 27, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("\\\\cdc.gov/private/M327/wvp3/ICPI/HRH TWG/South Africa 2018apr")
+# load environment containing the spider/radar plot objects previously created in HRID_analysis_spider.R
+
+load(".RData")
+library(plotly)
+library(tidyverse)
+library(shiny)
+library(htmlwidgets)
+
+```
+**Overview: **
+These three spiderweb plots show the bottom 10%, top 10%, and the middle (10 percentile to 90 percentile) of sites by TX NET NEW between FY2017Q4 and FY2018Q4.  The "spokes" of the web represent the total FTE by cadre.  To show the change in cadre mix at these sites over time, press the "play" button underneath the chart or drag the slider between time periods.  
+
+```{r plots, echo=FALSE, warning=FALSE, messages=FALSE, quiet=TRUE}
+
+shiny::fluidPage(
+ fluidRow(suppressWarnings(print(p_low))),
+
+ fluidRow(suppressWarnings(print(p_med))),
+
+ fluidRow(suppressWarnings(print(p_high)))
+)
+
+```
+
+
