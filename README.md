@@ -37,6 +37,7 @@ To fulfill ICPI’s objectives, the HSS Cluster has established the following go
 
 S/GAC Chairs, PPMs or S/GAC technical advisors, for COP or POART analysis, or as a policy review
 Country teams.  Inquiries are encouraged for ongoing technical assistance, or for specific events like portfolio reviews, COP presentations, or POART presentations, or in response to S/GAC questions.  Inquiries ideally originate from PEPFAR coordinating office (PCO), or may originate from agency offices with later concurrence from other agencies and PCO.
+
 Communities of practice (COOP) or short-term-task-teams (ST3) that have analytic questions related to any topics or data covered by the cluster.  Examples:  
 - Lab-related analytic requests from the VL COOP
 - Visuals on KP PrEP results for either the KP and/or PrEP COOP
