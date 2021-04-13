@@ -1,7 +1,7 @@
 # Health Systems Strengthening - Key Populations
 
 ## Goals
-To fulfill ICPI’s objectives, the HSS Cluster has established the following goals, which are integrated into their workplan:
+To fulfill ICPI’s objectives, the HSS - KP Cluster has established the following goals, which are integrated into our workplan:
 * Harness external datasets to conduct more in-depth analyses of global health systems
 * To enhance our understanding of whether PEPFAR is investing in the right HSS activities
 * If possible, explore potential relationships between HSS investments and programmatic results
@@ -36,6 +36,7 @@ To fulfill ICPI’s objectives, the HSS Cluster has established the following go
 ## Who can request support?
 
 S/GAC Chairs, PPMs or S/GAC technical advisors, for COP or POART analysis, or as a policy review
+
 Country teams.  Inquiries are encouraged for ongoing technical assistance, or for specific events like portfolio reviews, COP presentations, or POART presentations, or in response to S/GAC questions.  Inquiries ideally originate from PEPFAR coordinating office (PCO), or may originate from agency offices with later concurrence from other agencies and PCO.
 
 Communities of practice (COOP) or short-term-task-teams (ST3) that have analytic questions related to any topics or data covered by the cluster.  Examples:  
