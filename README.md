@@ -5,6 +5,7 @@ To fulfill ICPI’s objectives, the HSS - KP Cluster has established the followi
 * Harness external datasets to conduct more in-depth analyses of global health systems
 * To enhance our understanding of whether PEPFAR is investing in the right HSS activities
 * If possible, explore potential relationships between HSS investments and programmatic results
+* To standardize health systems analytics and incorporate them into routine business intelligence products, such as PEFPAR Panorama
 
 ## Menu of Analytic Services for FY21 and COP21
 
