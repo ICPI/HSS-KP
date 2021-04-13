@@ -40,12 +40,10 @@ Figure: Key Populations target-setting tool showing the aspirational clinical ca
 
 S/GAC Chairs, PPMs or S/GAC technical advisors, for COP or POART analysis, or as a policy review
 
-Country teams.  Inquiries are encouraged for ongoing technical assistance, or for specific events like portfolio reviews, COP presentations, or POART presentations, or in response to S/GAC questions.  Inquiries ideally originate from PEPFAR coordinating office (PCO), or may originate from agency offices with later concurrence from other agencies and PCO.
+Country teams.  Inquiries are encouraged for ongoing technical assistance, or for specific events like portfolio reviews, COP presentations, or POART presentations, or in response to S/GAC questions.  Inquiries ideally originate from PEPFAR coordinating office (PCO).
 
-Communities of practice (COOP) or short-term-task-teams (ST3) that have analytic questions related to any topics or data covered by the cluster.  Examples:  
+Communities of practice (COOP) or short-term-task-teams (ST3) that have analytic questions related to any topics or data covered by the cluster.  Potential examples:  
 - Lab-related analytic requests from the VL COOP
 - Visuals on KP PrEP results for either the KP and/or PrEP COOP
 - Data alignment recommendations from the HRH ST3 related to HRH cadres
-
-Agency-specific analysis (analytic questions that are primarily apply to, or are raised by, a single agency; or analysis of data that is predominantly or wholly reported/owned by a single agency) should be first directed to your agency subject matter experts and strategic information points of contact.  
 
