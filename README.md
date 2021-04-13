@@ -33,6 +33,8 @@ To fulfill ICPI’s objectives, the HSS - KP Cluster has established the followi
 -	Create visuals of key populations cascade (results cascade, or targets cascade)
 -	Compare HIV program metrics by KP group
 -	Comparison of key populations cascade or results vs. cascade in the general population (KP yield vs. gen pop yield; KP linkage vs. gen pop linkage).
+![image](https://user-images.githubusercontent.com/23505255/114597348-abe98980-9c5e-11eb-8c70-7430131e0b87.png)
+Figure: Key Populations target-setting tool showing the aspirational clinical cascade based on KP targets submitted in the data pack.
 
 ## Who can request support?
 
