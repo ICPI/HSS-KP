@@ -8,26 +8,26 @@ To fulfill ICPI’s objectives, the HSS Cluster has established the following go
 
 ## Menu of Analytic Services for FY21 and COP21
 
-###Human Resources for Health (HRH)
+######Human Resources for Health (HRH)
 
 -	Analysis of recent HRH inventory data to determine PEFPAR’s HRH footprint by cadre, program area, partner etc.
 -	Analysis of HRH inventory data and/or Expenditure Reporting (ER) data to determine PEFPAR’s spend on HRH by partner, SNU, program area; and changes over time (if required).  
 -	Merging and analysis of HRH data from the inventory or from MER together with other program data, at the site, partner, or PSNU levels.  
 -	Creation of graphs, maps, or visuals that overlay PEFPAR HRH investment with HIV program results.  
 
-###Commodities and ARV supply chain
+######Commodities and ARV supply chain
 
 -	Analysis of TLD transition based on MER or country-specific data sources
 -	Calculations of months of treatment dispensed
 -	Comparisons of reported of multi-month dispensing vs. reported amounts dispensed per patient
 
-###Laboratory
+######Laboratory
 
 -	Analysis of country-specific laboratory management information systems data, and/or merging and triangulation with MER results and program performance metrics down to the site level
 -	Creation of laboratory network maps showing either specimen transport or patients or sites in relation to laboratories
 -	Other maps that depict laboratory characteristics such as distances between reference lab and patient site in relation to turnaround time
 
-###Key populations
+######Key populations
 
 -	Create visuals of key populations cascade (results cascade, or targets cascade)
 -	Compare HIV program metrics by KP group
