@@ -21,8 +21,9 @@ To fulfill ICPI’s objectives, the HSS - KP Cluster has established the followi
 ### Commodities and ARV supply chain
 
 -	Analysis of TLD transition based on MER or country-specific data sources
--	Calculations of months of treatment dispensed
--	Comparisons of reported of multi-month dispensing vs. reported amounts dispensed per patient
+-	Analysis of ARV optimization (or dispensing) and viral load suppression, by geography
+-	Comparison of patients on multi-month dispensing (MMD) vs. associated bottle counts dispensed 
+-	Comparison of total ARV dispensed to total patients on treatment (TX_CURR); and estimated expected dispensing
 
 ### Laboratory
 
