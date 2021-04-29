@@ -12,11 +12,11 @@ To fulfill ICPI’s objectives, the HSS - KP Cluster has established the followi
 
 ### Human Resources for Health (HRH)
 
--	Analysis of recent HRH inventory data to determine PEFPAR’s HRH footprint by cadre, program area, partner etc.
--	Analysis of HRH inventory data and/or Expenditure Reporting (ER) data to determine PEFPAR’s spend on HRH by partner, SNU, program area; and changes over time (if required).  
--	Merging and analysis of HRH data from the inventory or from MER together with other program data, at the site, partner, or PSNU levels.  
--	Creation of graphs, maps, or visuals that overlay PEFPAR HRH investment with HIV program results.
--	All items listed here will also apply to data from the new HRH reporting requirement to be released in Q4 2021 
+-	Analysis of recent HRH inventory data to determine PEFPAR’s HRH footprint by cadre, program area, geography, partner/IM etc.
+-	Analysis of HRH inventory data and/or Expenditure Reporting (ER) data to determine PEFPAR’s spend on HRH by partner/IM, geography, program area; and changes over time (if required).  
+-	Merging and analysis of HRH data from the inventory or from MER together with other program data, at the site, partner/IM, or geographic levels.  
+-	Creation of graphs, maps, or visuals that overlay PEFPAR HRH investment with HIV program targets and/or results.
+-	All items listed here will also apply to data from the new HRH inventory reporting requirement beginning in Q4 2021 
 
 ### Commodities and ARV supply chain
 
